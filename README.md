@@ -1,5 +1,6 @@
 # Computer-Vision-Style-Transfer
 **Fourth Year (2023/2024) Advanced Computer Vision Module**
+
 A sophisticated movie-game style transfer model, using state-of-the-art deep learning models and methods, with enhancements through human detection followed by human classification. 
 
 The human detection model used was YOLO-v9, trained on the COCO person dataset. The human classification model classfied patches into baby, boy, girl, man and woman. Convolutional Vision Transformer (CVT) was used, which was adapted from Vision transformer (ViT), and trained on a subset of the CIFAR-100 dataset. 
